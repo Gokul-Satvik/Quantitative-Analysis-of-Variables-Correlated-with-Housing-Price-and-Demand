@@ -1,5 +1,5 @@
 ## **Housing Price and Demand Analysis**  
-**Business Analytics with R -
+Business Analytics with R 
 
 ### **1. Project Overview**  
 This project analyzes housing sales data to identify key factors affecting housing prices and demand. We utilize statistical and machine learning techniques to provide insights for real estate developers, policymakers, and investors.  
